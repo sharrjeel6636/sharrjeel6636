@@ -57,7 +57,7 @@ Flutter + Firebase mobile app for madrasa admission management.
 **5. [Smart Grocery Billing System](https://github.com/sharrjeel6636/Smart_Grocery_Billing_System)**  
 C-based billing system with analytics.
 
-*(Aur projects ke liye neeche dekho)*
+
 
 ---
 
